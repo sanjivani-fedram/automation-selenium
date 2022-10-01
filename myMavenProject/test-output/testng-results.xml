@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-02T02:03:57 IST" name="Default suite" finished-at="2022-10-02T02:04:54 IST" duration-ms="56527">
+    <groups>
+    </groups>
+    <test started-at="2022-10-02T02:03:57 IST" name="Default test" finished-at="2022-10-02T02:04:54 IST" duration-ms="56527">
+      <class name="com.redifmail.test.SinInPageTest">
+        <test-method is-config="true" signature="setsinIn()[pri:0, instance:com.redifmail.test.SinInPageTest@6392827e]" started-at="2022-10-02T02:03:57 IST" name="setsinIn" finished-at="2022-10-02T02:04:41 IST" duration-ms="43732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setsinIn -->
+        <test-method signature="checklogInpage()[pri:0, instance:com.redifmail.test.SinInPageTest@6392827e]" started-at="2022-10-02T02:04:41 IST" name="checklogInpage" finished-at="2022-10-02T02:04:48 IST" duration-ms="7084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checklogInpage -->
+        <test-method is-config="true" signature="closesinInpage()[pri:0, instance:com.redifmail.test.SinInPageTest@6392827e]" started-at="2022-10-02T02:04:48 IST" name="closesinInpage" finished-at="2022-10-02T02:04:54 IST" duration-ms="5501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesinInpage -->
+      </class> <!-- com.redifmail.test.SinInPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
